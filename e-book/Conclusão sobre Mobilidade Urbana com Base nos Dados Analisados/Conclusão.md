@@ -1,7 +1,7 @@
 
 # Conclusão
 
-A análise aprofundada dos dados da pesquisa sobre a mobilidade urbana dos jovens em Manaus, em contraste com a conclusão original apresentada nos slides, revela uma perspectiva mais matizada e, em muitos aspectos, crítica sobre o papel dos aplicativos de transporte. Longe de serem a panaceia para os complexos desafios da mobilidade urbana, os dados sugerem que, embora ofereçam conveniência em certos cenários, os aplicativos de transporte por si só não constituem uma solução abrangente e sustentável para a mobilidade urbana.
+A análise aprofundada dos dados da pesquisa sobre a mobilidade urbana dos jovens em Manaus revela uma perspectiva mais matizada e, em muitos aspectos, crítica sobre o papel dos aplicativos de transporte. Longe de serem a panaceia para os complexos desafios da mobilidade urbana, os dados sugerem que, embora ofereçam conveniência em certos cenários, os aplicativos de transporte por si só não constituem uma solução abrangente e sustentável para a mobilidade urbana.
 
 Os resultados da pesquisa demonstram consistentemente que:
 
