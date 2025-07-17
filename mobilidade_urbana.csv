@@ -1,0 +1,35 @@
+ID,Idade,Zona,Ocupação,Viagens/semana (Uber/99),Compara Preços?,Peso Preço (1-5),Peso Tempo (1-5),Reação à Tarifa Dinâmica,Viagens Moto (de 10),Cancelamentos (3 meses),Satisfação Ônibus (1-5),Gasto Mensal (Apps),Uso Ferramenta Segurança
+1,22,Norte,Estudante e Trab.,3 a 5,Sempre,5,3,Espero 5-10 min,1 a 3,3 a 5,1,R$ 51-150,Na maioria das viagens
+2,19,Leste,Estudante (Univ.),1 a 2,Sempre,5,2,Procuro alternativa,4 a 6,1 a 2,1,Até R$ 50,Em todas as viagens
+3,28,Centro-Sul,Trabalhador(a),3 a 5,Às vezes,3,5,Pago o valor mais alto,0,1 a 2,2,R$ 151-300,Raramente
+4,20,Norte,Estudante (Univ.),3 a 5,Quase sempre,4,4,Espero 5-10 min,1 a 3,3 a 5,2,R$ 51-150,Apenas à noite
+5,26,Oeste,Trabalhador(a),6 a 10,Às vezes,4,5,Pago o valor mais alto,1 a 3,6 ou mais,1,Acima de R$ 300,Apenas à noite
+6,17,Leste,Estudante (Médio),1 a 2,Sempre,5,2,Procuro alternativa,4 a 6,1 a 2,1,Até R$ 50,Em todas as viagens
+7,23,Norte,Estudante e Trab.,3 a 5,Sempre,5,4,Espero 5-10 min,1 a 3,3 a 5,1,R$ 51-150,Na maioria das viagens
+8,25,Sul,Trabalhador(a),1 a 2,Raramente,3,4,Pago o valor mais alto,0,0,3,Até R$ 50,Raramente
+9,21,Centro-Oeste,Estudante (Univ.),3 a 5,Quase sempre,4,3,Espero 5-10 min,1 a 3,1 a 2,2,R$ 51-150,Apenas à noite
+10,29,Norte,Outro,6 a 10,Nunca,2,5,Pago o valor mais alto,0,3 a 5,2,Acima de R$ 300,Nunca
+11,18,Leste,Estudante e Trab.,3 a 5,Sempre,5,3,Procuro alternativa,4 a 6,3 a 5,1,R$ 51-150,Em todas as viagens
+12,24,Oeste,Trabalhador(a),3 a 5,Quase sempre,4,4,Espero 5-10 min,0,1 a 2,2,R$ 51-150,Apenas à noite
+13,20,Norte,Estudante (Univ.),1 a 2,Sempre,5,3,Procuro alternativa,1 a 3,1 a 2,2,Até R$ 50,Na maioria das viagens
+14,27,Leste,Trabalhador(a),6 a 10,Quase sempre,4,5,Pago o valor mais alto,1 a 3,6 ou mais,1,R$ 151-300,Apenas à noite
+15,22,Centro-Sul,Estudante e Trab.,3 a 5,Sempre,4,4,Espero 5-10 min,0,3 a 5,3,R$ 51-150,Na maioria das viagens
+16,19,Norte,Estudante (Univ.),1 a 2,Sempre,5,2,Procuro alternativa,1 a 3,1 a 2,2,Até R$ 50,Em todas as viagens
+17,25,Norte,Trabalhador(a),3 a 5,Quase sempre,5,4,Espero 5-10 min,1 a 3,3 a 5,1,R$ 51-150,Apenas à noite
+18,23,Leste,Estudante e Trab.,6 a 10,Sempre,5,4,Espero 5-10 min,4 a 6,6 ou mais,1,R$ 151-300,Na maioria das viagens
+19,21,Oeste,Estudante (Univ.),1 a 2,Sempre,4,3,Espero 5-10 min,0,1 a 2,2,R$ 51-150,Apenas à noite
+20,28,Norte,Trabalhador(a),3 a 5,Quase sempre,4,4,Pago o valor mais alto,0,3 a 5,1,R$ 51-150,Em todas as viagens
+21,16,Sul,Estudante (Médio),1 a 2,Quase sempre,5,1,Procuro alternativa,1 a 3,0,1,Até R$ 50,Na maioria das viagens
+22,24,Centro-Oeste,Estudante e Trab.,3 a 5,Sempre,5,4,Espero 5-10 min,1 a 3,3 a 5,2,R$ 51-150,Na maioria das viagens
+23,20,Leste,Estudante (Univ.),1 a 2,Sempre,5,2,Procuro alternativa,4 a 6,1 a 2,2,Até R$ 50,Em todas as viagens
+24,26,Norte,Trabalhador(a),1 a 2,Às vezes,3,4,Pago o valor mais alto,1 a 3,1 a 2,3,R$ 51-150,Raramente
+25,22,Norte,Estudante e Trab.,3 a 5,Sempre,5,3,Espero 5-10 min,4 a 6,3 a 5,1,R$ 51-150,Em todas as viagens
+26,19,Leste,Estudante (Univ.),3 a 5,Sempre,4,3,Espero 5-10 min,1 a 3,1 a 2,2,R$ 51-150,Apenas à noite
+27,25,Centro-Sul,Trabalhador(a),6 a 10,Raramente,3,5,Pago o valor mais alto,0,3 a 5,2,R$ 151-300,Raramente
+28,23,Oeste,Estudante (Univ.),1 a 2,Sempre,5,2,Procuro alternativa,0,1 a 2,1,Até R$ 50,Em todas as viagens
+29,27,Norte,Estudante e Trab.,3 a 5,Quase sempre,4,4,Espero 5-10 min,1 a 3,3 a 5,2,R$ 151-300,Na maioria das viagens
+30,20,Leste,Estudante (Univ.),1 a 2,Sempre,5,3,Espero 5-10 min,4 a 6,1 a 2,2,R$ 51-150,Apenas à noite
+31,18,Norte,Estudante (Médio),1 a 2,Quase sempre,5,2,Procuro alternativa,1 a 3,1 a 2,1,Até R$ 50,Na maioria das viagens
+32,24,Leste,Trabalhador(a),6 a 10,Quase sempre,4,5,Pago o valor mais alto,1 a 3,6 ou mais,1,R$ 151-300,Apenas à noite
+33,26,Centro-Sul,Estudante e Trab.,3 a 5,Sempre,4,4,Espero 5-10 min,0,3 a 5,2,R$ 51-150,Em todas as viagens
+34,21,Norte,Trabalhador(a),3 a 5,Sempre,5,4,Espero 5-10 min,7 ou mais,3 a 5,1,R$ 51-150,Apenas à noite

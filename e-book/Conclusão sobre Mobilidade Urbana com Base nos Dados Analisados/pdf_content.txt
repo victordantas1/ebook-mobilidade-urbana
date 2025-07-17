@@ -1,0 +1,88 @@
+
+
+
+A Mobilidade Urbana dos Jovens de Manaus na Era Digital – Análise de Dados
+Esta apresentação explora a complexidade da mobilidade urbana para jovens em Manaus, um tema cada vez mais moldado pela era digital. Analisamos como a tecnologia impacta as escolhas de transporte, focando no uso de aplicativos como Uber e 99, e no perfil dos usuários entre 18 e 28 anos, abordando seus hábitos, percepções e desafios diários.
+
+
+
+
+Contexto e Objetivo da Pesquisa
+Desafio da Mobilidade Urbana Objetivo da Pesquisa
+A mobilidade urbana em Manaus é um desafio contínuo, Esta pesquisa tem como objetivo analisar o impacto desses aplicativos na vida dos jovens manauaras, avaliando seus hábitos de uso, preferências e o papel da tecnologia na otimização da mobilidade urbana. Buscamos compreender a transição do transporte tradicional para as soluções digitais.
+
+
+
+
+Perfil Demográfico dos Entrevistados
+A pesquisa incluiu 34 jovens de Manaus, com idade entre 18 e 28 anos. A distribuição demográfica reflete uma amostra diversificada, crucial para compreender as dinâmicas de mobilidade.
+Estudante Trabalhador(a) (Universitário) 18-20 21-24 25-28 Estudante e Outro anos anos anos Trabalhador(a)
+
+
+
+
+
+Hábitos de Mobilidade: O Domínio dos Apps
+53% 12% 35%
+Utiliza apps de transporte algumas vezes por Usa apps diariamente. Usa apenas em ocasiões especiais/finais de semana (2-4 vezes).
+
+
+
+
+
+Percepção sobre o Transporte Público
+A insatisfação com o transporte público em Manaus é notória entre os jovens. Mais de 60% se declaram "muito insatisfeitos" ou "insatisfeitos". Os principais problemas apontados são:
+Lotação excessiva (29%)
+Demora e longos intervalos (24%)
+Falta de segurança (21%)
+Rotas inadequadas (15%)
+Condições precárias dos veículos (11%)
+Apesar das críticas, 65% dos jovens conhecem e utilizam aplicativos de monitoramento como "Cadê Meu Ônibus", mas apenas 29% consideram as informações precisas, mostrando uma lacuna tecnológica e de serviço.
+
+
+
+
+
+Comportamento em Relação à Tarifa Dinâmica
+A tarifa dinâmica, que eleva os preços dos aplicativos em horários de pico, é um fator determinante para os jovens de Manaus. Mais da metade (56%) procura alternativas ou espera por um preço melhor. 44% pagam o valor mais alto por necessidade. 32% esperam de 5 a 10 minutos para que o preço abaixe. 24% procuram alternativas como ônibus ou carona. O tempo de espera muitas vezes se torna um dilema, pois a urgência do deslocamento pode superar a preocupação com o custo. Isso Pagam valor mais Esperam 5-10 Procuram alto min alternativas ressalta a importância de um equilíbrio entre conveniência e acessibilidade financeira para os jovens usuários.
+
+
+
+
+
+Uso de Motos por Aplicativo: Agilidade com Risco
+O uso de motos por aplicativo é uma alternativa crescente em Manaus, especialmente pela rapidez e custo reduzido. No entanto, a percepção de segurança é um fator crítico. Aproximadamente 30% dos entrevistados afirmam utilizar motos por app para até 3 viagens a cada 10, e 20% para 4 a 6 viagens.
+Enquanto 29% consideram a moto uma boa alternativa pela rapidez, 35% expressam preocupação com a segurança. A agilidade no trânsito e o menor custo são atrativos, mas o receio de acidentes e a falta de infraestrutura segura para motociclistas são barreiras significativas para uma maior adoção.
+
+
+
+
+
+Ferramentas de Segurança em Aplicativos
+A segurança é uma preocupação primordial para os jovens usuários de aplicativos de transporte. A frequência de uso de ferramentas de segurança, como botões de pânico ou compartilhamento de rota, varia significativamente:
+47% utilizam essas ferramentas na maioria das viagens.
+24% utilizam em todas as viagens.
+21% usam apenas à noite.
+8% raramente ou nunca usam.
+Esses dados indicam uma consciência crescente sobre a segurança Na maioria Em todas as Apenas à Raramente das viagens viagens noite ou nunca pessoal, mas também sugerem a necessidade de maior conscientização e melhorias nas ferramentas oferecidas pelos aplicativos para garantir a tranquilidade dos usuários.
+
+
+
+
+
+Insights Finais: Desafios e Oportunidades
+Substituição do Transporte Público Segurança e Conforto
+A insatisfação com o transporte público e a conveniência dos Fatores determinantes na escolha de mobilidade, influenciando apps impulsionam a transição, apesar dos custos. o uso de apps e a busca por alternativas.
+Preocupação com Custos Integração e Otimização
+A tarifa dinâmica e os gastos mensais afetam a decisão, A necessidade de um aplicativo que integre todas as opções levando à busca por soluções mais econômicas. de transporte, com informações precisas e comparação de preços, é latente.
+
+
+
+
+
+Conclusão e Reflexão
+Como as tecnologias podem transformar a mobilidade urbana em Manaus de forma segura, acessível e eficiente para os jovens?
+A pesquisa evidencia que a mobilidade urbana dos jovens de Manaus está intrinsecamente ligada à era digital. Os aplicativos de transporte oferecem conveniência e segurança, mas impõem desafios de custo e confiabilidade, enquanto o transporte público enfrenta um alto nível de insatisfação.
+Para um futuro de mobilidade mais eficaz, engenheiros de software podem desenvolver plataformas que integrem múltiplas modalidades de transporte, otimizar algoritmos para rotas mais eficientes e tarifas justas, e implementar recursos de segurança avançados. Além disso, a análise de dados pode impulsionar melhorias contínuas na infraestrutura e na experiência do usuário, criando um ambiente urbano mais dinâmico e inclusivo para todos.
+
+
